@@ -1,1 +1,0 @@
-python3 student_database.py
